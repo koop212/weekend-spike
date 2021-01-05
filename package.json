@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "car-query": "^1.0.8",
     "dotenv": "^8.0.0",
     "googleapis": "^39.2.0",
